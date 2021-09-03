@@ -1,4 +1,8 @@
-// https://habijung.xyz/programmers/programmers-rectangle-star/
+/*
+    problem  - https://programmers.co.kr/learn/courses/30/lessons/12969
+    solution - https://habijung.xyz/programmers/programmers-rectangle-star/
+*/
+
 
 #include <iostream>
 using namespace std;
