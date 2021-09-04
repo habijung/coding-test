@@ -1,6 +1,9 @@
 /*
-    problem  - https://programmers.co.kr/learn/courses/30/lessons/12969
-    solution - https://habijung.xyz/programmers/programmers-rectangle-star/
+    - Problem
+    https://programmers.co.kr/learn/courses/30/lessons/12969
+    
+    - Solution
+    https://habijung.xyz/programmers/programmers-rectangle-star/
 */
 
 

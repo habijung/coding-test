@@ -1,12 +1,11 @@
 /*
-    problem  - https://programmers.co.kr/learn/courses/30/lessons/12954
-    solution - 
+    - Problem
+    https://programmers.co.kr/learn/courses/30/lessons/12954
 */
 
 
 #include <string>
 #include <vector>
-
 using namespace std;
 
 vector<long long> solution(int x, int n) {
