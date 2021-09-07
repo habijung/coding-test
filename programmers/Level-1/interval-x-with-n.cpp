@@ -1,6 +1,9 @@
 /*
     - Problem
     https://programmers.co.kr/learn/courses/30/lessons/12954
+
+    - Solution
+    https://habijung.xyz/programmers/programmers-level-1/
 */
 
 
@@ -12,7 +15,7 @@ vector<long long> solution(int x, int n) {
     vector<long long> answer;
     
     for (int i = 0; i < n; i++)
-        answer.push_back(x * (i + 1));
+        answer.push_back(x * (x * i));
     
     return answer;
 }
