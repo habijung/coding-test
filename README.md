@@ -5,9 +5,9 @@
 
 # Programming Language
 
-![Progress-Cpp](https://progress-bar.dev/50/?title=Cpp%20%20&width=150&color=f34b7d)
+![Progress-Cpp](https://progress-bar.dev/80/?title=Cpp%20%20&width=150&color=f34b7d)
 
-![Progress-Scala](https://progress-bar.dev/50/?title=Scala&width=150&color=83b064)
+![Progress-Scala](https://progress-bar.dev/20/?title=Scala&width=150&color=83b064)
 
 
 # Algorithm Website
