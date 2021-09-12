@@ -1,26 +1,28 @@
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
+<!-- HTML/CSS -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
 
-<div class="w3-container">
-  <h2>Rounded Progress Bars</h2>
-  <p>Use any of the <strong>w3-round</strong> classes to add rounded corners to progress bars:</p>
 
-  <div class="w3-light-grey w3-round">
-    <div class="w3-container w3-blue w3-round" style="width:25%">25%</div>
-  </div><br>
+# Coding Test
 
-  <div class="w3-light-grey w3-round-large">
-    <div class="w3-container w3-blue w3-round-large" style="width:25%">25%</div>
-  </div><br>
+**Study coding test.**
 
-  <div class="w3-light-grey w3-round-xlarge">
-    <div class="w3-container w3-blue w3-round-xlarge" style="width:25%">25%</div>
-  </div>
-</div>
 
-</body>
-</html>
+# Algorithm Website
+
+- [**programmers**](https://programmers.co.kr/)
+- [**HackerRank**](https://www.hackerrank.com/)
+
+
+# Programming Language
+
+<!-- Progress Bar
+![Progress-Cpp](https://progress-bar.dev/80/?title=Cpp%20%20&width=150&color=f34b7d)
+
+![Progress-Scala](https://progress-bar.dev/20/?title=Scala&width=150&color=83b064)
+-->
+![languages](languages.jpg)
+
+
+---
+**Updated :** 2021-09-12 00:09
