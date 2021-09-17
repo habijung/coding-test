@@ -21,7 +21,7 @@
 
 ![Progress-Scala](https://progress-bar.dev/20/?title=Scala&width=150&color=83b064)
 -->
-![languages](languages.jpg)
+![languages](languages.png)
 
 
 ---
