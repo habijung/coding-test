@@ -5,6 +5,7 @@
 # https://school.programmers.co.kr/learn/courses/18/lessons/1882
 #
 
+
 def solution(strs, t):
     answer = 0
     N = len(t)

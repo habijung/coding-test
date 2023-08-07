@@ -5,6 +5,7 @@
 # https://school.programmers.co.kr/learn/courses/18/lessons/1881
 #
 
+
 def solution(sticker):
     answer = 0
     N = len(sticker)

@@ -5,6 +5,7 @@
 # https://school.programmers.co.kr/learn/courses/18/lessons/1878
 #
 
+
 def check(arr):
     if arr[0] == arr[1]:
         return arr[2]
