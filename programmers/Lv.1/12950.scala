@@ -1,9 +1,11 @@
 /*
-    - Problem
-    https://programmers.co.kr/learn/courses/30/lessons/12950
-
-*/
-
+ * Created by habi on 2021-09-11.
+ * Lv.1: 행렬의 덧셈
+ * https://programmers.co.kr/learn/courses/30/lessons/12950
+ *
+ * Solution
+ * https://habijung.xyz/programmers/programmers-level-1/
+ */
 
 object Solution {
     def solution(arr1: Vector[Vector[Int]], arr2: Vector[Vector[Int]]): Vector[Vector[Int]] = {

@@ -1,11 +1,11 @@
 /*
-    - Problem
-    https://programmers.co.kr/learn/courses/30/lessons/12969
-    
-    - Solution
-    https://habijung.xyz/programmers/programmers-rectangle-star/
-*/
-
+* Created by habi on 2021-09-05.
+* Lv.1: 직사각형 별찍기
+* https://programmers.co.kr/learn/courses/30/lessons/12969
+*
+* Solution
+* https://habijung.xyz/programmers/programmers-rectangle-star/
+ */
 
 #include <iostream>
 using namespace std;
